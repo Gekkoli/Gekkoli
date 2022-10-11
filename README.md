@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#https://github.com/Gekkoli/Gekkoli/blob/main/assets/github-contribution-grid-snake.svg<p align="center">
+
+![](https://github.com/Gekkoli/Gekkoli/blob/main/assets/github-contribution-grid-snake.svg<p align="center">)
+</p >
