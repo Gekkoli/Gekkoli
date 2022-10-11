@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
+
 ![](https://github.com/Gekkoli/Gekkoli/blob/main/assets/github-contribution-grid-snake.svg<p align="center">)
-</p >
+</p>
